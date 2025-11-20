@@ -6,6 +6,7 @@ Budget and Trailer Views emerged as the dominant drivers of revenue, with clear 
 
 The study demonstrates that visibility creates revenue, and quality amplifies it. The resulting model serves as a practical forecasting tool for budgeting, scheduling, and marketing allocation.
 
+<img width="473" height="486" alt="Screenshot 2025-11-19 at 9 13 09 PM" src="https://github.com/user-attachments/assets/44f81e45-d088-4cf8-94bb-5fd8deb0d400" />
 🔧 Tech Stack
 
 Python
